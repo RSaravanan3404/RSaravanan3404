@@ -1,8 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Saravanan</h1>
 <h3 align="center">A passionate python developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsaravanan3404&label=Profile%20views&color=0e75b6&style=flat" alt="rsaravanan3404" /> </p>
-
+<!-- <img align="right" alt="Coding" width="400" src=""> -->
 - 💬 Ask me about **python, object-oriented-programming, data-structures**
 
 - 📫 How to reach me **saravananr101022@gmail.com**
