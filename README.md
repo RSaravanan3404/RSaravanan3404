@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saravanan</h1>
 <h3 align="center">A passionate python developer from India</h3>
-<!-- <img align="right" alt="Coding" width="400" src=""> -->
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 - 💬 Ask me about **python, object-oriented-programming, data-structures**
 
 - 📫 How to reach me **saravananr101022@gmail.com**
