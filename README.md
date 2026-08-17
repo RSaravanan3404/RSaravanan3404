@@ -1,24 +1,72 @@
-<h1 align="center">Hi 👋, I'm Saravanan</h1>
-<h3 align="center">Software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-- 💬 Ask me about **python, object-oriented-programming, data-structures**
+<h1 align="center">Hi there, I'm Saravanan 👋</h1>
+<h3 align="center">AI Engineer @ Rocket India — building LLM-powered applications & evaluation systems</h3>
 
-- 📫 How to reach me **saravananr101022@gmail.com**
-
-- ⚡ Fun fact **Reducing the code complexity is really complex**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saravanan-r-21b12a246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saravanan-r-21b12a246" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/srgeetha0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saravanan r" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/srgeetha0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saravanan r" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+AI+Applications+%2B+Backend;LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI+%C2%B7+LangGraph;Currently+building+an+LLM+evaluation+toolkit" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik.github.io/master/assets/Programming.gif" alt="Coding gif">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsaravanan3404&show_icons=true&locale=en&layout=compact" alt="rsaravanan3404" /></p>
+### About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsaravanan3404&show_icons=true&locale=en" alt="rsaravanan3404" /></p>
+- I'm an **AI Engineer** working on AI applications and backend systems at **Rocket India**
+- I build with **LLMs, RAG pipelines, and agentic AI** — LangChain, LangGraph, Google ADK, MCP
+- Recent work: RAG evaluation & regression pipelines, synthetic data generation, LangGraph-based multi-agent orchestration, event-driven systems with Kafka
+- B.Tech in Artificial Intelligence & Data Science (2021–2025) · IBM Generative AI Engineering Certified (2025)
+- Currently building an **AI evaluation toolkit** — LLM-as-judge, RAG eval, prompt eval, and tool-use eval pipelines, plus reusable utilities for AI projects
+- Ask me about **Python, LLM systems, RAG, system design, and data structures**
+- Reach me at **saravananr101022@gmail.com**
+- Fun fact: **reducing code complexity is really complex**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RSaravanan3404&" alt="rsaravanan3404" /></p>
+<br clear="right"/>
+
+### Tech Stack
+
+**Languages & Backend**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,postgresql" alt="languages" />
+</p>
+
+**AI / LLM Stack**
+
+![LLMs](https://img.shields.io/badge/LLMs-4B8BBE?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0B7285?style=for-the-badge&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-1864AB?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2F855A?style=for-the-badge&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6741D9?style=for-the-badge&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector%20Databases-343A40?style=for-the-badge&logoColor=white)
+
+**Data, Infra & Tools**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=gcp,kafka,git,github,vscode" alt="infra" />
+</p>
+
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=black)
+
+### GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rsaravanan3404&show_icons=true&theme=tokyonight&hide_border=true" alt="Saravanan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaravanan3404&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsaravanan3404&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+### 🔗 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/saravanan-r-21b12a246" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/srgeetha0123" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/srgeetha0123" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="mailto:saravananr101022@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+</p>
